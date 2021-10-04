@@ -2,7 +2,7 @@
 
 This project was very interesting for me [Website link](https://romantic-education-06c0bc.netlify.app/).
 
-## Available Scripts
+## That's why use it
 
 This website is time consuming or time consuming
 
