@@ -1,0 +1,19 @@
+.teacher-div{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.card img{
+    height: 300px;
+    border-radius: 10px;
+
+}
+
+.TeachCard{
+    background-image: linear-gradient(rgb(122, 190, 212), rgb(226, 249, 253));
+}
+
+
+
+

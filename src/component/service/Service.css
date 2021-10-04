@@ -1,0 +1,60 @@
+.service-div{
+    
+    padding: 50px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .serviceCard{
+      border-radius: 4px;
+      background: #fff;
+      box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+        transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+    padding: 14px 80px 18px 36px;
+    cursor: pointer;
+  }
+  
+  .serviceCard:hover{
+       transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+  }
+  
+  .serviceCard h4{
+    font-weight: 600;
+  }
+  
+  .serviceCard img{
+    position: absolute;
+    top: 20px;
+    right: 15px;
+    max-height: 120px;
+  }
+  
+  .serviceCard-1{
+    
+        background-repeat: no-repeat;
+      background-position: right;
+      background-size: 80px;
+  }
+  
+  .serviceCard-2{
+     
+        background-repeat: no-repeat;
+      background-position: right;
+      background-size: 80px;
+  }
+  
+  .serviceCard-3{
+     
+        background-repeat: no-repeat;
+      background-position: right;
+      background-size: 80px;
+  }
+  .serviceCard{
+    
+    background-image: linear-gradient(#f8e6aad7, rgba(154, 250, 221, 0.842));
+  }
+  
+  @media(max-width: 990px){
+    .serviceCard{
+      margin: 20px;
+    }
+  } 

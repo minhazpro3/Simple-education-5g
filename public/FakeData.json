@@ -1,0 +1,26 @@
+[
+    { 
+      "id":1,
+      "caragory": "Early stage classes",
+      "description": "Children aged four to six are introduced to the performing arts through our fabulous range of Early Stages singing, dancing and acting classes.",
+      "img": "https://i.ibb.co/hDPVKT6/primary.jpg"
+    },
+    {  
+       "id":2,
+      "caragory": "Secondary level classes",
+      "description": "Secondary education covers two phases on the International Standard Classification of Education scale.",
+      "img": "https://i.ibb.co/LPK5Fx0/secondary.jpg"
+    },
+    {   
+      "id":3,
+      "caragory": "Upper lavel classes",
+      "description": "Upper secondary education. According to the Education Act, every student who successfully completes basic education has access to upper secondary education. ",
+      "img": "https://i.ibb.co/gFNWTYq/upper.jpg"
+    },
+    { 
+      "id":4,
+      "caragory": "Diploma in Engineering",
+      "description": "It is a 4-year termed diploma course on engineering disciplines aimed to make efficient supervisor and mid level manager to implement the engineering projects. ",
+      "img": "https://i.ibb.co/NnRD30Z/Young-woman-at-work-The-girl-solders-the-sensors-with-a-soldering-iron-under-a-microscope-Computer-b.jpg"
+    }
+  ]

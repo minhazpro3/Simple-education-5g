@@ -1,0 +1,9 @@
+.errorPage{
+    margin: 50px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(105, 96, 96, 0.089);
+    color: red;
+    font-weight: 1000px;
+}

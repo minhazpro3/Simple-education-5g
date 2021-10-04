@@ -1,0 +1,74 @@
+[
+    {
+      "id":1,
+      "name": "Jhon-paul",
+      "Qualifications": "Master of Business Administration",
+      "position": "Principal",
+      "identity": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence or virtue.",
+      "img": " https://i.ibb.co/CV9d6mZ/01.jpg"
+    },
+    {
+      "id":2,
+      "name": "Jonson",
+      "Qualifications": "Master of Science",
+      "position": "Assistant Principal",
+      "identity": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence or virtue.",
+      "img": " https://i.ibb.co/HpSrCVb/10.jpg"
+    },
+    {
+      "id":3,
+      "name": "Victoriya",
+      "Qualifications": "CSE",
+      "position": "Head of Department",
+      "identity": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence or virtue.",
+      "img": " https://i.ibb.co/3rML935/04.jpg"
+    },
+    {
+      "id":4,
+      "name": "Bella Jesy",
+      "Qualifications": "Master of Social Science",
+      "position": "Head of Department",
+      "identity": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence or virtue.",
+      "img": " https://i.ibb.co/B6C2MsV/09.jpg"
+    },
+    {
+      "id":5,
+      "name": "Bencroft",
+      "Qualifications": "Bachelor of Science",
+      "position": "Department Lecturer",
+      "identity": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence or virtue.",
+      "img": " https://i.ibb.co/PrC3pP8/03.jpg"
+    },
+    {
+      "id":6,
+      "name": "Holder",
+      "Qualifications": "Master of Arts",
+      "position": "Lecturer",
+      "identity": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence or virtue.",
+      "img": " https://i.ibb.co/fkk559s/02.jpg"
+    },
+    {
+      "id":7,
+      "name": "Niclos Jemi",
+      "Qualifications": "Master of Physical Exercise",
+      "position": "Physical Activity",
+      "identity": "A teacher, also called a schoolteacher or formally an educator, is a person  helps students to acquire knowledge helps students  knowledge, competence or virtue.",
+      "img": " https://i.ibb.co/DzxjY0t/06.jpg"
+    },
+    {
+      "id":8,
+      "name": "Suji Beats",
+      "Qualifications": "Master of Moral Education",
+      "position": " Lecturer in the Department of Ethical Education",
+      "identity": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence or virtue.",
+      "img": "https://i.ibb.co/2MYNNSm/05.jpg"
+    },
+    {
+      "id":9,
+      "name": "Cries Wakes",
+      "Qualifications": "Master of sptots",
+      "position": "Trainer in the Department of Sports Education",
+      "identity": "A teacher, also called a schoolteacher or formally an educator, is a person who helps students to acquire knowledge, competence or virtue.",
+      "img": "https://thumbs.dreamstime.com/z/sports-teacher-male-stands-outdoors-field-holding-whistle-57218792.jpg"
+    }
+  ]
