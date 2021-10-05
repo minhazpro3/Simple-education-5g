@@ -4,12 +4,12 @@ This project was very interesting for me [Website link](https://romantic-educati
 
 ## That's why use it
 
-This website is time consuming or time consuming
+- This website is time consuming or time consuming
 
 
-In this website for learn and to increase knowledge.
+- In this website for learn and to increase knowledge.
 
 
-We will try to give you more sites as gifts. Thanks
+- We will try to give you more sites as gifts. Thanks
 
 

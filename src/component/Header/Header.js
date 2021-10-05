@@ -10,7 +10,7 @@ const Header = () => {
         
         <div className="col-md-6 p-5">
         <div className="ms-5 fs-1 py-4">
-        <h1>Welcome To Our  <br/> Education Family.</h1>
+        <h1>Welcome To Our  <br/> Education Family</h1>
 
         <button className="btn btn-info">View more</button>
         </div>
