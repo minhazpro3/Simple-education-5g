@@ -12,7 +12,7 @@ const Home = () => {
     },[])
     return (
       <div className="home  mt-3">
-          <h2 className="text-center pt-3">Our Classes</h2>
+          <h2 className="text-center pt-3 ">Our Classes</h2>
           
             <div className="row row-cols-1 row-cols-md-2 g-4 mt-0">
                 {

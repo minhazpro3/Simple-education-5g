@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 import './HomeCart.css'
 
 const HomeCart = (props) => {
@@ -18,7 +19,7 @@ const HomeCart = (props) => {
           </div>
           <div className="d-flex justify-content-between container my-3">
             <div>
-            <button className="btn btn-info">Details</button>
+            <NavLink className="btn btn-info text-decoration-none " to="/service">Details</NavLink>
             </div>
         
           </div>
